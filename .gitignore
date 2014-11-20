@@ -41,3 +41,30 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+bin/
+packages/
+
+*.dll
+VersionOneETL/bin/FSharp.Core.xml
+VersionOneETL/bin/FSharp.Data.DesignTime.pdb
+VersionOneETL/bin/FSharp.Data.DesignTime.xml
+VersionOneETL/bin/FSharp.Data.pdb
+VersionOneETL/bin/VersionOneETL.exe
+VersionOneETL/bin/VersionOneETL.exe.config
+VersionOneETL/bin/VersionOneETL.pdb
+VersionOneETL/bin/VersionOneETL.XML
+VersionOneETL/obj/Debug/VersionOneETL.exe
+VersionOneETL/obj/Debug/VersionOneETL.fsproj.FileListAbsolute.txt
+VersionOneETL/obj/Debug/VersionOneETL.fsprojResolveAssemblyReference.cache
+VersionOneETL/obj/Debug/VersionOneETL.pdb
+packages/FSharp.Data.1.1.10/lib/sl5/FSharp.Data.DesignTime.pdb
+packages/FSharp.Data.1.1.10/lib/sl4-windowsphone71/FSharp.Data.xml
+packages/FSharp.Data.1.1.10/lib/sl4-windowsphone71/FSharp.Data.pdb
+packages/FSharp.Data.1.1.10/lib/portable-net40+sl5+wp8+win8/FSharp.Data.xml
+packages/FSharp.Data.1.1.10/lib/portable-net40+sl5+wp8+win8/FSharp.Data.pdb
+packages/FSharp.Data.1.1.10/lib/portable-net40+sl5+wp8+win8/FSharp.Data.DesignTime.xml
+packages/FSharp.Data.1.1.10/lib/portable-net40+sl5+wp8+win8/FSharp.Data.DesignTime.pdb
+packages/FSharp.Data.1.1.10/lib/net40/FSharp.Data.xml
+packages/FSharp.Data.1.1.10/FSharp.Data.1.1.10.nupkg
+packages/FSharp.Data.1.1.10/lib/net40/FSharp.Data.DesignTime.pdb
